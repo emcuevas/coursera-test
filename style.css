@@ -1,0 +1,30 @@
+h1 {
+	color:red;
+	font-size: 40px;
+	font-weight: 300;
+	font-style: verdana;
+	text-align:center;
+}
+
+.contact-info {
+	text-align: center;
+}
+
+body {
+	padding: 10px 100px 15px 100px;
+}
+
+.headers {
+	text-indent:50px;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th,td {
+	padding: 10px 100px 10px 100px;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+}
