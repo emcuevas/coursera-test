@@ -1,30 +1,40 @@
-h1 {
-	color:red;
-	font-size: 40px;
-	font-weight: 300;
-	font-style: verdana;
-	text-align:center;
+
+.test {
+	float: left;
+	text-transform: uppercase;
+}
+.whole {
+	 	padding: 20px 50px;
+	 	width:1000px;
+	 	min-height: 29.7cm;
+	 	margin: 1cm auto;
+
 }
 
-.contact-info {
-	text-align: center;
+#my-name {
+	letter-spacing: 3px;
+	margin-bottom: 0px;
+	color: red;
+	font-size: 48px;
 }
 
-body {
-	padding: 10px 100px 15px 100px;
+#state{
+	margin-top: 2px;
+	font-style: italic;
+	font-size: 152%;
 }
 
-.headers {
-	text-indent:50px;
-}
+.header {
+	padding: 5px 0 8px;
+	border-bottom: 1px solid;
+	overflow: auto;
 
-table {
-	border-collapse: collapse;
-	width: 100%;
+	
 }
-
-th,td {
-	padding: 10px 100px 10px 100px;
-	text-align: left;
-	border-bottom: 1px solid #ddd;
+.contact-right {
+	position: relative;
+	float:right;
+	line-height: 10px;
+	margin: auto;
+	margin-top: 5px;
 }
